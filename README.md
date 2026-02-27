@@ -3,7 +3,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Data_Analysis_Expressions-blue?style=for-the-badge)
 
-📖 **[Read the Full Interactive Case Study on My Notion Portfolio]([https://whispering-crater-183.notion.site/Project-Strategic-Climate-Data-Narrative-Thailand-s-Path-to-1-5-C-314e54702f0b80a0b72fda6af13ab862?source=copy_link])**
+📖 **[Read the Full Interactive Case Study on My Notion Portfolio](https://whispering-crater-183.notion.site/Project-Strategic-Climate-Data-Narrative-Thailand-s-Path-to-1-5-C-314e54702f0b80a0b72fda6af13ab862?source=copy_link)**
 
 ## 📌 Project Overview
 This repository contains the Power BI data model and DAX code used to analyze Thailand's carbon emissions. The objective of this project was to develop a data-driven presentation advocating for systemic policy changes to keep global warming below the critical 1.5°C boundary. The final deliverable served as a persuasive tool for stakeholders to support the implementation of the proposed Thailand Climate Change Act.
@@ -30,4 +30,4 @@ This was a collaborative cohort project. My primary contributions focused on **D
 * `/presentation` - Contains the final collaborative slide deck PDF.
 
 ---
-*If you are a recruiter or hiring manager, please visit the **[Notion Case Study]([Insert_Your_Notion_Link_Here])** to see how these technical deliverables were translated into actionable policy recommendations.*
+*If you are a recruiter or hiring manager, please visit the **[Notion Case Study](https://whispering-crater-183.notion.site/Project-Strategic-Climate-Data-Narrative-Thailand-s-Path-to-1-5-C-314e54702f0b80a0b72fda6af13ab862?source=copy_link)** to see how these technical deliverables were translated into actionable policy recommendations.*
