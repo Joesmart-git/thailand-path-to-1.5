@@ -45,23 +45,27 @@ Required_2023_Target1 =
 ## 📊 Executive Insights & Visual Proof (My Contributions)
 **1. Rising Heat Signatures:** Proved Thailand's localized warming is outpacing global averages by engineering a comparative baseline metric.
 <div align="center">
-  <img width="767" height="437" alt="rising heat sig" src="[https://github.com/user-attachments/assets/4d24cb97-2736-441d-9ca8-27f6235d6e3f](https://github.com/user-attachments/assets/4d24cb97-2736-441d-9ca8-27f6235d6e3f)" />
+  <img width="767" height="437" alt="rising heat sig" src="https://github.com/user-attachments/assets/80f444eb-ee40-40d5-b7a6-9dfa2bd00979" />
 </div>
+
 
 **2. Isolating the Primary Driver:** Identified CO2 as the overwhelming catalyst for the country's temperature increase through cumulative emission tracking.
 <div align="center">
-  <img width="751" height="456" alt="what is to blame" src="[https://github.com/user-attachments/assets/1ffd5679-7f5c-403d-8194-4fde501af345](https://github.com/user-attachments/assets/1ffd5679-7f5c-403d-8194-4fde501af345)" />
+  <img width="751" height="456" alt="what is to blame" src="https://github.com/user-attachments/assets/70ec0edc-7305-42bd-8c89-d9c5acedb15e" />
 </div>
+
 
 **3. The Expanding Footprint:** Demonstrated that carbon emissions are actively accelerating despite climate agreements by building a custom DAX Waterfall chart to calculate year-over-year CO2 variance.
 <div align="center">
-  <img width="693" height="373" alt="waterfall" src="[https://github.com/user-attachments/assets/1796d334-d036-4d51-96f5-8014488e996d](https://github.com/user-attachments/assets/1796d334-d036-4d51-96f5-8014488e996d)" />
+ <img width="693" height="373" alt="waterfall" src="https://github.com/user-attachments/assets/eba2100a-f604-4219-b9b9-0dfe87ba8c1f" />
 </div>
+
 
 **4. The Carbon Budget Deficit:** Visually proved Thailand has already exceeded its 2023 allowed GHG budget (Current: 416.85 | Target: 384.36) utilizing a dynamically filtered Gauge chart.
 <div align="center">
-  <img width="782" height="428" alt="gauge" src="[https://github.com/user-attachments/assets/2a1bf599-42b8-47ff-89cf-eea3595f071f](https://github.com/user-attachments/assets/2a1bf599-42b8-47ff-89cf-eea3595f071f)" />
+<img width="782" height="428" alt="gauge" src="https://github.com/user-attachments/assets/26d21312-38b0-4da5-946b-76cc8893de48" />
 </div>
+
 
 ## 📂 Repository Structure
 * `/01_Raw_Data` - Contains the OWID CO2 dataset used for the analysis.
