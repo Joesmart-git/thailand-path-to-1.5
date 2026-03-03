@@ -68,9 +68,9 @@ Required_2023_Target1 =
 
 
 ## 📂 Repository Structure
-* `/01_Raw_Data` - Contains the OWID CO2 dataset used for the analysis.
-* `/02_PowerBI_Model` - Contains the interactive `.pbix` dashboard and DAX logic.
-* `/03_Deliverables` - Contains the final collaborative slide deck PDF and executive presentation.
+* [📁 /01_Raw_Data](./01_Raw_Data) - Contains the OWID CO2 dataset used for the analysis.
+* [📁 /02_PowerBI_Model](./02_PowerBI_Model) - Contains the interactive `.pbix` dashboard and DAX logic.
+* [📁 /03_Deliverables](./03_Deliverables) - Contains the final collaborative slide deck PDF and executive presentation.
 
 ---
 *If you are a recruiter or hiring manager, please visit the **[Notion Case Study](https://whispering-crater-183.notion.site/Project-Strategic-Climate-Data-Narrative-Thailand-s-Path-to-1-5-C-314e54702f0b80a0b72fda6af13ab862?source=copy_link)** to see how these technical deliverables were translated into actionable policy recommendations.*
